@@ -1,0 +1,9 @@
+{
+    "name":"Super Mercado",
+    "productInfo":[
+       {"name":"Feijão", "price":8.60},
+       {"name":"Arroz", "price":30.00}
+    ],
+    "shoppingDate":"2009-01-01",
+    "totalSpend": 38.60
+ }
